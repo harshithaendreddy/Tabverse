@@ -2,8 +2,8 @@
 
 **TabVerse** is a powerful browser extension that helps you organize, save, search, and reopen tabs in meaningful groups. Whether you're a developer, student, or researcher, TabVerse brings calm to your browser chaos.
 
-![TabVerse Banner](![icon128](https://github.com/user-attachments/assets/cf1c60d2-6628-4013-8a7e-de01abed749d)
-) 
+![icon128](https://github.com/user-attachments/assets/02dd5481-c384-4d4d-9795-764c3c375462)
+
 
 ---
 
