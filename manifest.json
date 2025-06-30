@@ -1,0 +1,24 @@
+{
+  "manifest_version": 3,
+  "name": "TabVerse",
+  "description": "Organize and resume your tabs like a pro.",
+  "version": "1.0",
+  "action": {
+    "default_popup": "popup/popup.html",
+    "default_icon": "icons/icon128.png"
+  },
+  "background": {
+    "service_worker": "background.js"
+  },
+  "permissions": ["tabs", "storage", "notifications", "sessions"],
+  "host_permissions": ["<all_urls>"],
+  "icons": {
+    "128": "icons/icon128.png"
+  },
+  "web_accessible_resources": [
+    {
+      "resources": ["popup/share.html"],
+      "matches": ["<all_urls>"]
+    }
+  ]
+}

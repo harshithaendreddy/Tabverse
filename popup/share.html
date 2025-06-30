@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>TabVerse Share</title>
+</head>
+<body>
+  <script>
+    function base64ToUtf8(str) {
+      return decodeURIComponent(atob(str).split('').map(function(c) {
+        return '%' + ('00' + c.charCodeAt(0).toString(16)).slice(-2);
+      }).join(''));
+    }
+
+    const params = new URLSearchParams(window.location.search);
+    const encoded = params.get('tabs');
+
+    if (encoded) {
+      try {
+        const json = base64ToUtf8(decodeURIComponent(encoded));
+        const tabs = JSON.parse(json);
+        tabs.forEach(tab => {
+          chrome.tabs.create({ url: tab.url });
+        });
+      } catch (e) {
+        alert('Invalid or corrupted tab share link.');
+      }
+    }
+  </script>
+</body>
+</html>

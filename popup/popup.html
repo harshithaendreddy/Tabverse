@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <title>TabVerse</title>
+  <link rel="stylesheet" href="popup.css" />
+</head>
+<body>
+  <header>
+    <h1>📂 TabVerse</h1>
+    <button id="saveGroup">➕ Save Current Tabs</button>
+  </header>
+
+  <section class="input-section">
+    <input type="text" id="search" placeholder="🔍 Search saved groups..." />
+    <div class="import-group">
+      <input type="text" id="importLink" placeholder="🔗 Paste shared link..." />
+      <button id="importBtn">📥 Open Shared Group</button>
+    </div>
+  </section>
+
+  <section id="groups" class="groups-container">
+    <!-- Group entries will be rendered here -->
+  </section>
+
+  <footer>
+    <p class="footer-note">Your second brain for tabs — TabVerse © 2025</p>
+  </footer>
+
+  <script src="popup.js"></script>
+</body>
+</html>
