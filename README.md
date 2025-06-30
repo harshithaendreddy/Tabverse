@@ -21,7 +21,7 @@
 
 ### 🧪 Local Installation (for Chrome or Edge)
 
-1. Download this repo from [Download v1.0.0] (https://github.com/harshithaendreddy/Tabverse/releases/latest) 
+1. Download this repo from [Download v1.0.0](https://github.com/harshithaendreddy/Tabverse/releases/latest) 
 2. Open `chrome://extensions` or `edge://extensions`  
 3. Enable **Developer Mode**
 4. Click **"Load Unpacked"** and select the `TabVerse/` folder
