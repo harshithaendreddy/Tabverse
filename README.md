@@ -72,7 +72,7 @@ We don’t collect or transmit any personal data. TabVerse only uses `chrome.sto
 ## 📬 Contact
 
 For feedback, bugs, or feature requests:  
-📧 [tabverse1.1@gmail.com](mailto:tabverse.support@gmail.com)
+📧 [tabverse1.1@gmail.com](mailto:tabverse1.1@gmail.com)
 
 ---
 
