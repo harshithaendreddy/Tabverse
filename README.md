@@ -82,4 +82,4 @@ MIT License — [See LICENSE](LICENSE)
 
 ---
 
-> 🔖 Open smarter, not wider — with TabVerse.
+> 🔖 Work Samrter with TabVerse.
