@@ -37,9 +37,9 @@
 
 ## 📷 Screenshots
 
-| Save Tabs | Search | Shared Group |
-|----------|--------|----------------|
-| ![](![image](https://github.com/user-attachments/assets/7b4a8bc3-fa86-43be-ab90-6ec477623374)) | ![](![image](https://github.com/user-attachments/assets/cf4b03e5-eb39-416b-b03c-a124a81ef4c6)) | ![](![image](https://github.com/user-attachments/assets/2013987c-0b46-4cc9-a14a-5e9a6f1da3d5)) |
+![image](https://github.com/user-attachments/assets/8786b669-650a-49b9-bc42-4feee57a1aed)
+![image](https://github.com/user-attachments/assets/282df00a-b9bc-43b8-a23e-73be4dcdac60)
+
 
 ---
 
